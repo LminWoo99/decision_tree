@@ -14,8 +14,7 @@ seaborn 라이브러리 'mpg'데이터
   6. Decision Tree Classifier의 주요매개변수들을 이용하여 조정하면서 최고의 평균 정확도 찾기<br>
   7. 최적 모델 grid_cv.best_estimator_을 사용하여 테스트 데이터에 대한 예측을 수행<br>
   8. [feature_importances_ 속성을 사용하여 각 피처의 중요도를 알아내고 중요도가 높은 5개 피처를 찾아 그래프로 표시]()<br>
-  9. [Graphviz 패키지 : 결정트리 모델의 트리구조를 그림으로 시각화하기]
-(https://github.com/LminWoo99/decision_tree/blob/main/%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%90%E1%85%B3%E1%84%85%E1%85%B5.png)
+  9. [Graphviz 패키지 : 결정트리 모델의 트리구조를 그림으로 시각화하기](https://github.com/LminWoo99/decision_tree/blob/main/%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%90%E1%85%B3%E1%84%85%E1%85%B5.png)
   
 
 <h2>모델 평가</h2>
